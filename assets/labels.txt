@@ -1,0 +1,10 @@
+abu-abu
+biru
+coklat
+hijau
+hitam
+kuning
+merah
+orange
+pink
+putih
